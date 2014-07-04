@@ -1,0 +1,31 @@
+
+root { 
+    display: block;
+}
+
+
+input[type="text"].styleForm, textarea.styleForm{
+    margin-right: 20px;
+    width: 70%;
+    border-radius: 5px 5px 5px 5px;
+    height: 20px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    margin-left: 5px;
+}
+
+textarea.styleForm{    
+    width: 70%; 
+    height: 168px;
+    resize: none;
+      
+}
+
+input[type="button"]#btnEnviarForm{
+    margin-top: 10px;
+    float: right;
+    margin-right: 27%;
+    margin-bottom: 10px;
+        
+}
+
